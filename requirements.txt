@@ -1,0 +1,20 @@
+# --- Core Data Science ---
+pandas
+numpy
+pytz
+
+# --- Visualização ---
+matplotlib
+seaborn
+
+# --- Machine Learning & Pipelines ---
+scikit-learn
+xgboost
+
+# --- Engenharia de Features Específica (Solar) ---
+astral
+
+# --- Databricks & MLOps Ecosystem ---
+mlflow
+databricks-feature-engineering
+databricks-sdk
